@@ -1,0 +1,11 @@
+item {
+  name: "mavic"
+  id: 1
+  display_name: "mavic"
+}
+item {
+  name: "phantom"
+  id: 2
+  display_name: "phantom"
+}
+
